@@ -32,7 +32,8 @@ At **PumpGo**, we centralize fuel purchases across all gas stations in the marke
 📈 **Focused on Growth and Scalability**
 
 ### 🏗️ **GitHub Status**  
-[![GitHub Status](https://github-readme-stats.vercel.app/api?username=[TuUsuarioGitHub]&show_icons=true&count_private=true&hide=prs&theme=radical)](https://github.com/[TuUsuarioGitHub])
+[![GitHub Status](https://github-readme-stats.vercel.app/api?username=ironpiri&show_icons=true&count_private=true&hide=prs&theme=radical)](https://github.com/ironpiri)
+
 
 ### 📬 **Reach Me**  
 Let’s build something great together:
