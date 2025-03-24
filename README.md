@@ -26,7 +26,7 @@ At **PumpGo**, we centralize fuel purchases across all gas stations in the marke
 ### 🎯  **Focus**  
 📈 Visionary and Technology Leader  
 👥 High-Performance Team Builder  
-💡 Product Development Strategist  
+💡  Product Development Strategist  
 🌍 Committed to the Tech Community  
 📈 Focused on Growth and Scalability
 
