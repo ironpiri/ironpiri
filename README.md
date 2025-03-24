@@ -1,7 +1,6 @@
 ![Foto de portada](https://i.postimg.cc/gJJ495Tx/Github-Banner-Jean-Pierre-Rodriguez.png) <!-- Asegúrate de poner el link a tu foto de portada aquí -->
 
-# Opa! Hey! Hola! 👋  
-**Its Jean Pierre**  
+# Opa! Hey! Hola! Its Jean Pierre  👋  
 
 ### 🧑‍💻 **About Me**
 
@@ -17,19 +16,19 @@
 
 ### 🚀 Projects
 
-### Currently building **PumpGo**
+Currently building PumpGo
 An ambitious project with an amazing team, **PumpGo** is the next big step for the gas station industry.  
 At **PumpGo**, we centralize fuel purchases across all gas stations in the market, where users, gas stations, and pumpers can boost revenue and rewards.
 
 ![PumpGo Logo](https://i.postimg.cc/v8zh85nr/Linkedin-banner-profile.jpg) <!-- Aquí puedes agregar la URL de tu logo o imagen representativa del proyecto -->
 
   
-### 🚀**Focus**  
-📈 **Visionary and Technology Leader**  
-👥 **High-Performance Team Builder**  
-💡 **Product Development Strategist**  
-🌍 **Committed to the Tech Community**  
-📈 **Focused on Growth and Scalability**
+### 🎯  **Focus**  
+📈 Visionary and Technology Leader  
+👥 High-Performance Team Builder  
+💡 Product Development Strategist  
+🌍 Committed to the Tech Community  
+📈 Focused on Growth and Scalability
 
 ### 🏗️ **GitHub Status**  
 [![GitHub Status](https://github-readme-stats.vercel.app/api?username=ironpiri&show_icons=true&count_private=true&hide=prs&theme=radical)](https://github.com/ironpiri)
@@ -38,9 +37,9 @@ At **PumpGo**, we centralize fuel purchases across all gas stations in the marke
 ### 📬 **Reach Me**  
 Let’s build something great together:
 
-- 🎥 **YouTube**: [@ironpiri](https://www.youtube.com/@ironpiri)
-- 📸 **Instagram**: [@jpconsultingagency](https://www.instagram.com/jpconsultingagency/)
-- 🐦 **X (Twitter)**: [@ironpiri](https://x.com/ironpiri)
-- 📧 **Correo Electrónico**: [jp@pumpgoapp.com](mailto:jp@pumpgoapp.com)
+- [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@ironpiri)
+- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/jpconsultingagency/)
+- [![X (Twitter)](https://img.shields.io/badge/-X-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/ironpiri)
+- [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jp@pumpgoapp.com)
 
 
