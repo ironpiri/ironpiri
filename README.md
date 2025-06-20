@@ -4,8 +4,9 @@
 
 ### 🧑‍💻 **About Me**
 
-- 🎓 **MBA in Strategic Project Management** - Brazil 2025  
-- 🎓 **MSc in Business Intelligence and Data Science** - Ecuador's top #1 university  
+- 🎓 **Mgtr. in Smart and Sustainable Cities** - Brazil 2025 
+- 🎓 **MBA in Strategic Project Management** - Brazil 2024  
+- 🎓 **MSc. in Business Intelligence and Data Science** - Ecuador's top #1 university  
 - 👨‍💻 **Engineer & Entrepreneur**: 3x Founder with 13 years in tech  
 - 🏅 **Sports Lover**: Judo black belt, 12x Ironman triathlete, and 4x Marathoner  
 - 🎥 **Content Creator** on platforms like Amazon, Kobo Books, Udemy, Medium, and YouTube  
